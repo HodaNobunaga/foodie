@@ -1,0 +1,39 @@
+.frenchy{
+    width: 600px;
+    height:300px;
+    margin: 90px;
+    padding: 40px;
+    background-image : url("../../assets/french.jpg");
+}
+
+a{
+    text-decoration: none;
+    color: black;
+  }
+  
+.oriental
+{
+    width: 600px;
+    height:300px;
+    margin: 90px;
+    padding: 40px;
+    background-image : url("../../assets/couscous.png");
+}
+
+.japanese{
+    width: 600px;
+     height:300px;
+     margin: 90px; 
+     padding: 40px;
+     background-image : url("../../assets/japanese.jpg");
+}
+
+.american
+{
+   
+    width: 600px;
+     height:300px;
+     margin: 90px; 
+     padding: 40px;
+     background-image : url("../../assets/usa.jpg");
+}

@@ -1,0 +1,13 @@
+footer {
+    background-color: rgb(147, 233, 214);
+    display: flex;
+    justify-content:space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  } 
+section {
+   display: flex;
+   align-items: flex-end;
+   align-items: center;
+   
+}
