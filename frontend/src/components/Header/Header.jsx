@@ -21,20 +21,21 @@
                 <a to="/">
                   <img src="logo.png" alt="Logo" />
                 </a>
-                <hr className="h-1 bg-gray-200"></hr>
+                <hr className="mt-10 h-1 bg-gray-200"></hr>
               </li> 
               <li>
-              <li><button type="button" className="">Valider</button></li>
-              <a to="/"class="">Inscription ou Connexion</a>
+              <li><button type="button" className="bg-indigo-600 rounded p-3 text-white">Inscription / Connexion</button></li>
+              {/* <a to="/"className="text-gray-500 hover:text-purple-700 hover:text-xl">Inscription ou Connexion</a> */}
               </li>
-              <li>
-                <a to="/">Contact</a>
+              
+              <li className="text-gray-500 font-medium hover:text-indigo-600" >
+                <a to="/form" >Contact</a>
               </li>
             </ul>
           </div>
   
           <ul className={styles.menu2} inline-block shadow-lg>
-            <li ><button className="text-blue-800 dark:text-white text-xl font-medium mb-2">Connexion</button>
+            <li ><button className=" ">Connexion</button>
             </li>
             <li><button type="button" className="">Valider</button></li>
   
